@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C# and Applied Artificial Intelligence**
 
-- 📝 I regularly write articles on [https://jcasttrop.medium.com/](https://jcasttrop.medium.com/)
-
 - 💬 Ask me about **Mathematics, Physics, Artificial Intelligence, Engineering, IoT**
 
 - 📫 How to reach me **juliancastro320@gmail.com**
@@ -19,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/jcasttrop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jcasttrop" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jcasttrop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcasttrop" height="30" width="40" /></a>
-<a href="https://medium.com/@jcasttrop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jcasttrop" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcasttrop&show_icons=true&locale=en&layout=compact" alt="jcasttrop" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcasttrop&show_icons=true&locale=en" alt="jcasttrop" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcasttrop&" alt="jcasttrop" /></p>
+
+
