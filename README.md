@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jcasttrop" target="blank"><img src="https://img.shields.io/twitter/follow/jcasttrop?logo=twitter&style=for-the-badge" alt="jcasttrop" /></a> </p>
 
-- 🌱 I’m currently learning **C# and Applied Artificial Intelligence**
+- 🌱 I’m currently learning **FastAPI for machine learning engineering**
 
 - 💬 Ask me about **Mathematics, Physics, Artificial Intelligence, Engineering, IoT**
 
